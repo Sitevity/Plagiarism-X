@@ -41,7 +41,6 @@ $ Plagiarism-checker-Python-> python3 app.py
 ('fatma.txt', 'juma.txt', 0.18643448370323362)
 
 ```
-
 ## A Python Library?
 
 Would you like to use a Python library instead to help you compare strings and documents without spending time writing the vectorizers by yourself, then take a look at [Pysimilar](https://github.com/Kalebu/pysimilar).
@@ -57,7 +56,7 @@ you can raise an issue.
 
 ## Pull Requests
 
-If you have something to add, I welcome pull requests on improvement; your helpful contribution will be merged as soon as possible.
+If you have something to add, I welcome pull requests on improvement; your helpful contribution will be merged as soon as possible. 
 
 ## Give it a Star
 
