@@ -16,6 +16,7 @@ s_vectors = list(zip(student_files, vectors))
 plagiarism_results = set()
 
 # threshold for the similarity score
+
 def check_plagiarism(threshold=0.8):
     global s_vectors
     for student_a, text_vector_a in s_vectors:
@@ -30,3 +31,5 @@ def check_plagiarism(threshold=0.8):
                 plagiarism_results.add(score)
     return plagiarism_results
 
+for data in check_plagiarism():
+    print(data)
